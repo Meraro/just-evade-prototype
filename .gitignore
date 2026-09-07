@@ -1,0 +1,62 @@
+# Unity-generated directories
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Unity-generated IDE files
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# IDE settings
+.vs/
+.vscode/
+.idea/
+
+# Unity crash reports and generated files
+sysinfo.txt
+*.stacktrace
+*.unityproj
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Local diagnostics and recovery data
+command.txt
+output/
+Assets/_Recovery/
+
+# Locally acquired third-party assets and derived animation working copies.
+# Install/recreate these locally; see README.md for the BossBattlePrototype setup.
+Assets/EEJANAI_Team/
+Assets/EEJANAI_Team.meta
+Assets/Humanoid/
+Assets/Humanoid.meta
+Assets/Kevin Iglesias/
+Assets/Kevin Iglesias.meta
+Assets/Pro Sword and Shield Pack/
+Assets/Pro Sword and Shield Pack.meta
+Assets/Standing Dive Forward.fbx
+Assets/Standing Dive Forward.fbx.meta
+Assets/Sword And Shield Walk.fbx
+Assets/Sword And Shield Walk.fbx.meta
+Assets/Sword Walk/
+Assets/Sword Walk.meta
+Assets/BossBattle/Animation/BossCombo*Working.anim
+Assets/BossBattle/Animation/BossCombo*Working.anim.meta
+Assets/BossBattle/Animation/PlayerDodgeForwardWorking.anim
+Assets/BossBattle/Animation/PlayerDodgeForwardWorking.anim.meta
+Assets/BossBattle/Animation/SwordWalk/
+Assets/BossBattle/Animation/SwordWalk.meta
+Assets/Scripts/BossBattle.zip
+Assets/Scripts/BossBattle.zip.meta
+Assets/_Recovery.meta
